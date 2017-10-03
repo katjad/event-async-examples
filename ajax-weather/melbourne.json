@@ -1,0 +1,9 @@
+{
+    "city": {
+        "name": "Melbourne",
+        "temperature": 18,
+        "description": "Fine, partly cloudy",
+        "description_class": "partlyCloudy"
+    }
+
+}

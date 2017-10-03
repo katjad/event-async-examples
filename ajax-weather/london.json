@@ -1,0 +1,9 @@
+{
+    "city": {
+        "name": "London",
+        "temperature": 5,
+        "description": "Fine, partly cloudy",
+        "description_class": "partlyCloudy"
+    }
+
+}
