@@ -16,3 +16,7 @@ request.onerror = function() {
 };
 
 request.send();
+
+// fetch API
+// axios
+// jQuery.ajax()
